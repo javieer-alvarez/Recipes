@@ -36,8 +36,8 @@ This app highlights **clean architecture** and SwiftUI best practices while impl
 ## 🚀 Getting Started
 
 ### Prerequisites
-- **Xcode 14.2** or later  
-- **iOS 15.0+** deployment target  
+- **Xcode 16.0** or later  
+- **iOS 18.2+** deployment target  
 
 ### Setup Instructions
 
