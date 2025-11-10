@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/javieer-alvarez/Recipes/assets/screenshot" alt="Screenshot" width="400">
+<img src="https://github.com/javieer-alvarez/Recipes/assets/appicon" alt="App Icon" width="400">
 </div>
 
 # Recipes
@@ -7,7 +7,7 @@
 A simple and elegant **recipe manager** built with SwiftUI — designed to help users create, organize, and favorite their own recipes with full data persistence.
 
 <div align="center">
-<img src="https://github.com/javieer-alvarez/Recipes/assets/your_second_screenshot_here" alt="App Demo" width="400">
+<img src="https://github.com/javieer-alvarez/Recipes/assets/screenshot" alt="App Demo" width="400">
 </div>
 
 ## 📱 Overview
@@ -18,6 +18,8 @@ It lets users:
 - 🧂 Add ingredients and detailed descriptions  
 - 💾 Save recipes locally with **persistent storage**  
 - ❤️ Mark and browse favorite recipes  
+- 🗂️ Organize recipes into categories  
+- 🔍 Search recipes by name or ingredient  
 - 👨‍🍳 View recipe details including author and ingredients  
 
 This app highlights **clean architecture** and SwiftUI best practices while implementing persistence for an offline-first experience.
@@ -59,9 +61,9 @@ That’s it — no API keys, no configuration needed.
 ## 🧠 Architecture Overview
 
 The app follows a **Clean MVVM** pattern:
-- **Models:** Recipe, Ingredient, Author  
-- **ViewModels:** Handle persistence, state management, and logic  
-- **Views:** SwiftUI screens for recipe lists, detail, and creation  
+- **Models:** Recipe, Ingredient, Author, Category  
+- **ViewModels:** Handle persistence, filtering, and logic  
+- **Views:** SwiftUI screens for recipe lists, details, creation, and search  
 - **Persistence Layer:** Uses `UserDefaults` or `CoreData` for storing recipes  
 
 This makes the app **modular**, **testable**, and **easy to maintain**.
@@ -79,6 +81,8 @@ _Coming soon!_
 - Persistent storage of user recipes  
 - Add ingredients, author name, and preparation description  
 - Favorite recipes list  
+- Categorize and filter recipes  
+- Search recipes by keyword or ingredient  
 - Clean and minimal SwiftUI interface  
 - Local-first architecture (offline support)
 
@@ -87,9 +91,8 @@ _Coming soon!_
 ## 💡 Future Improvements
 
 - Cloud sync between devices  
-- Categories and search filters  
-- Sharing recipes with friends  
-- Dark mode refinements  
+- Recipe sharing with friends  
+- Enhanced dark mode styling  
 
 ---
 
