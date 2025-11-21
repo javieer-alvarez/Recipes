@@ -22,20 +22,20 @@ struct RecipeDetailView : View {
     var body: some View{
         
         VStack{
-            
-            HStack{
-                Text("Author: \(author)")
-                    .font(.subheadline)
-                    .padding()
-                Spacer()
+            Group {
+                HStack{
+                    Text("Author: \(author)")
+                        .font(.headline)
+                        .padding(.vertical, 5.5)
+                    Spacer()
+                }
+                HStack{
+                    Text(recipe.mainInformation.description)
+                        .font(.subheadline)
+                    Spacer()
+                }
             }
-            HStack{
-                Text(recipe.mainInformation.description)
-                    .font(.subheadline)
-                    .padding()
-                Spacer()
-            }
-            
+            .padding(.horizontal)
             List{
                 Section(header: Text("Ingredients")){
                     ForEach(ingredients.indices, id: \.self){index in
