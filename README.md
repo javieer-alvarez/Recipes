@@ -1,6 +1,7 @@
 <div align="center">
-<img src="https://github.com/javieer-alvarez/Recipes/assets/appicon" alt="App Icon" width="400">
+<img width="1024" height="1024" alt="AppIconRecipes" src="https://github.com/user-attachments/assets/b7f14702-83e8-4a21-a544-a37994e7ac55" />
 </div>
+
 
 # Recipes
 
