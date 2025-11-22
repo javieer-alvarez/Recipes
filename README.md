@@ -7,7 +7,7 @@
 
 <div align="center">
 
-![Swift](https://img.shields.io/badge/Swift-5.10-orange?style=for-the-badge&logo=swift)
+![Swift](https://img.shields.io/badge/Swift-6.2.1-orange?style=for-the-badge&logo=swift)
 ![Platform](https://img.shields.io/badge/iOS-18.2%2B-lightgrey?style=for-the-badge&logo=apple)
 ![Architecture](https://img.shields.io/badge/Architecture-MVVM-blue?style=for-the-badge)
 ![Persistence](https://img.shields.io/badge/Storage-CoreData%20%2F%20UserDefaults-green?style=for-the-badge)
