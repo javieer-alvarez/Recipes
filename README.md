@@ -72,10 +72,10 @@ This makes the app **modular**, **testable**, and **easy to maintain**.
 ---
 
 ## 📸 Screenshots
-<img width="300" height="1311" alt="IMG_5269" src="https://github.com/user-attachments/assets/7d5fc520-b0a2-43a4-94e0-1d26554e26f2" />
-<img width="300" height="1311" alt="IMG_5270" src="https://github.com/user-attachments/assets/d3f487fc-732d-484b-9fd4-4d8ffaa31f67" />
-<img width="300" height="1311" alt="IMG_5271" src="https://github.com/user-attachments/assets/51d5f5b1-200b-4c41-959b-ea70ae8a0139" />
-<img width="300" height="1311" alt="Screenshot 2025-11-21 at 23 37 42" src="https://github.com/user-attachments/assets/2b63c4a9-ddf7-4e91-8a52-28ad11741f28" />
+<img width="300" alt="IMG_5269" src="https://github.com/user-attachments/assets/7d5fc520-b0a2-43a4-94e0-1d26554e26f2" />
+<img width="300" alt="IMG_5270" src="https://github.com/user-attachments/assets/d3f487fc-732d-484b-9fd4-4d8ffaa31f67" />
+<img width="300" alt="IMG_5271" src="https://github.com/user-attachments/assets/51d5f5b1-200b-4c41-959b-ea70ae8a0139" />
+<img width="300" alt="Screenshot 2025-11-21 at 23 37 42" src="https://github.com/user-attachments/assets/2b63c4a9-ddf7-4e91-8a52-28ad11741f28" />
 
 ---
 
